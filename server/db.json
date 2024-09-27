@@ -1,0 +1,386 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "label": "Dog Food",
+      "image": "categories/dog-food.png",
+      "alt": "dog-food"
+    },
+    {
+      "id": 2,
+      "label": "Cat Food",
+      "image": "categories/cat-food.png",
+      "alt": "cat-food"
+    },
+    {
+      "id": 3,
+      "label": "Treats",
+      "image": "categories/treats.png",
+      "alt": "treats"
+    },
+    {
+      "id": 4,
+      "label": "Screatchers",
+      "image": "categories/screatchers.png",
+      "alt": "screatchers"
+    },
+    {
+      "id": 5,
+      "label": "Toys",
+      "image": "categories/toys.png",
+      "alt": "toys"
+    },
+    {
+      "id": 6,
+      "label": "Bowl & Dishes",
+      "image": "categories/bowl-dishes.png",
+      "alt": "bowl-dishes"
+    },
+    {
+      "id": 7,
+      "label": "Carriers",
+      "image": "categories/carriers.png",
+      "alt": "carriers"
+    }
+  ],
+  "flashsales": [
+    {
+      "id": 1,
+      "image": "flashsale/product-1.png",
+      "review": 88,
+      "name": "Hill’s Prescription Diet Hypo",
+      "price": 120000,
+      "discount": 160000,
+      "alt": "product-1"
+    },
+    {
+      "id": 2,
+      "image": "flashsale/product-2.png",
+      "review": 88,
+      "name": "Purina Friskies Wet Cat Food Variety Pack",
+      "price": 220000,
+      "discount": 250000,
+      "alt": "product-2"
+    },
+    {
+      "id": 3,
+      "image": "flashsale/product-3.png",
+      "review": 88,
+      "name": "LickiMat Slomo, Cat Slow Feeder Lick Mat",
+      "price": 105000,
+      "discount": 125000,
+      "alt": "product-3"
+    },
+    {
+      "id": 4,
+      "image": "flashsale/product-4.png",
+      "review": 88,
+      "name": "Cat Food Bowl for Cats and Small Dog - 10oz ",
+      "price": 34500,
+      "discount": 50000,
+      "alt": "product-4"
+    },
+    {
+      "id": 5,
+      "image": "flashsale/product-5.png",
+      "review": 88,
+      "name": "Good'N'Fun Triple Flavored for Dogs",
+      "price": 90000,
+      "discount": 100000,
+      "alt": "product-5"
+    }
+  ],
+  "new-items": [
+    {
+      "id": 1,
+      "image": "new-items/product-1.png",
+      "review": 88,
+      "name": "Kaytee CritterTrail Starter Kit Habitat ",
+      "price": 190000,
+      "alt": "product-1"
+    },
+    {
+      "id": 2,
+      "image": "new-items/product-2.png",
+      "review": 88,
+      "name": "2-Door Top-Load Hard-Sided Dogs",
+      "price": 200000,
+      "alt": "product-2"
+    },
+    {
+      "id": 3,
+      "image": "new-items/product-3.png",
+      "review": 88,
+      "name": "ORIJEN Original Cat, Grain Free Dry Cat Food ",
+      "price": 85000,
+      "alt": "product-3"
+    },
+    {
+      "id": 4,
+      "image": "new-items/product-4.png",
+      "review": 88,
+      "name": "Vetnique Labs Pet Wipes for Dogs & Cats",
+      "price": 25000,
+      "alt": "product-4"
+    },
+    {
+      "id": 5,
+      "image": "new-items/product-5.png",
+      "review": 88,
+      "name": "PAWZ Road Cactus Cat Scratcher",
+      "price": 77500,
+      "alt": "product-5"
+    }
+  ],
+  "popular-items": [
+    {
+      "id": 1,
+      "image": "popular-items/product-1.png",
+      "review": 88,
+      "name": "Purina Pro Plan High Protein for Dogs",
+      "price": 110000,
+      "alt": "product-1"
+    },
+    {
+      "id": 2,
+      "image": "popular-items/product-2.png",
+      "review": 88,
+      "name": "Whiskas Pouch 80gr Cat Food",
+      "price": 8000,
+      "alt": "product-2"
+    },
+    {
+      "id": 3,
+      "image": "popular-items/product-3.png",
+      "review": 88,
+      "name": "Escobark Complete Chicken Raw Dog Food",
+      "price": 45000,
+      "alt": "product-3"
+    },
+    {
+      "id": 4,
+      "image": "popular-items/product-4.png",
+      "review": 88,
+      "name": "Kaytee Forti Pro Health Adult Rabbit Food",
+      "price": 120000,
+      "alt": "product-4"
+    },
+    {
+      "id": 5,
+      "image": "popular-items/product-5.png",
+      "review": 88,
+      "name": "Small Pet- White Paper Bedding",
+      "price": 32500,
+      "alt": "product-5"
+    }
+  ],
+  "top-brands": [
+    {
+      "id": 1,
+      "image": "top-brands/brand-1.png",
+      "alt": "brand-1"
+    },
+    {
+      "id": 2,
+      "image": "top-brands/brand-2.png",
+      "alt": "brand-2"
+    },
+    {
+      "id": 3,
+      "image": "top-brands/brand-3.png",
+      "alt": "brand-3"
+    },
+    {
+      "id": 4,
+      "image": "top-brands/brand-4.png",
+      "alt": "brand-4"
+    },
+    {
+      "id": 5,
+      "image": "top-brands/brand-5.png",
+      "alt": "brand-5"
+    },
+    {
+      "id": 6,
+      "image": "top-brands/brand-6.png",
+      "alt": "brand-6"
+    },
+    {
+      "id": 7,
+      "image": "top-brands/brand-7.png",
+      "alt": "brand-7"
+    },
+    {
+      "id": 8,
+      "image": "top-brands/brand-8.png",
+      "alt": "brand-8"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "flashsale/product-1.png",
+      "review": 88,
+      "name": "Hill’s Prescription Diet Hypo",
+      "price": 120000,
+      "discount": 160000,
+      "alt": "product-1"
+    },
+    {
+      "id": 2,
+      "image": "flashsale/product-2.png",
+      "review": 88,
+      "name": "Purina Friskies Wet Cat Food Variety Pack",
+      "price": 220000,
+      "discount": 250000,
+      "alt": "product-2"
+    },
+    {
+      "id": 3,
+      "image": "flashsale/product-3.png",
+      "review": 88,
+      "name": "LickiMat Slomo, Cat Slow Feeder Lick Mat",
+      "price": 105000,
+      "discount": 125000,
+      "alt": "product-3"
+    },
+    {
+      "id": 4,
+      "image": "flashsale/product-4.png",
+      "review": 88,
+      "name": "Cat Food Bowl for Cats and Small Dog - 10oz ",
+      "price": 34500,
+      "discount": 50000,
+      "alt": "product-4"
+    },
+    {
+      "id": 5,
+      "image": "flashsale/product-5.png",
+      "review": 88,
+      "name": "Good'N'Fun Triple Flavored for Dogs",
+      "price": 90000,
+      "discount": 100000,
+      "alt": "product-5"
+    },
+    {
+      "id": 6,
+      "image": "new-items/product-1.png",
+      "review": 88,
+      "name": "Kaytee CritterTrail Starter Kit Habitat ",
+      "price": 190000,
+      "alt": "product-1"
+    },
+    {
+      "id": 7,
+      "image": "new-items/product-2.png",
+      "review": 88,
+      "name": "2-Door Top-Load Hard-Sided Dogs",
+      "price": 200000,
+      "alt": "product-2"
+    },
+    {
+      "id": 8,
+      "image": "new-items/product-3.png",
+      "review": 88,
+      "name": "ORIJEN Original Cat, Grain Free Dry Cat Food ",
+      "price": 85000,
+      "alt": "product-3"
+    },
+    {
+      "id": 9,
+      "image": "new-items/product-4.png",
+      "review": 88,
+      "name": "Vetnique Labs Pet Wipes for Dogs & Cats",
+      "price": 25000,
+      "alt": "product-4"
+    },
+    {
+      "id": 10,
+      "image": "new-items/product-5.png",
+      "review": 88,
+      "name": "PAWZ Road Cactus Cat Scratcher",
+      "price": 77500,
+      "alt": "product-5"
+    },
+    {
+      "id": 11,
+      "image": "popular-items/product-1.png",
+      "review": 88,
+      "name": "Purina Pro Plan High Protein for Dogs",
+      "price": 110000,
+      "alt": "product-1"
+    },
+    {
+      "id": 12,
+      "image": "popular-items/product-2.png",
+      "review": 88,
+      "name": "Whiskas Pouch 80gr Cat Food",
+      "price": 8000,
+      "alt": "product-2"
+    },
+    {
+      "id": 13,
+      "image": "popular-items/product-3.png",
+      "review": 88,
+      "name": "Escobark Complete Chicken Raw Dog Food",
+      "price": 45000,
+      "alt": "product-3"
+    },
+    {
+      "id": 14,
+      "image": "popular-items/product-4.png",
+      "review": 88,
+      "name": "Kaytee Forti Pro Health Adult Rabbit Food",
+      "price": 120000,
+      "alt": "product-4"
+    },
+    {
+      "id": 15,
+      "image": "popular-items/product-5.png",
+      "review": 88,
+      "name": "Small Pet- White Paper Bedding",
+      "price": 32500,
+      "alt": "product-5"
+    }
+  ],
+  "users": [
+    {
+      "username": "charles barnabas",
+      "email": "charlesrickybarnabas@gmail.com",
+      "password": "barnabas123",
+      "firstname": "charles",
+      "lastname": "barnabas",
+      "dob": "21-07-2004",
+      "created_date": 1727446350140,
+      "address": {
+        "detail_address": "Bojongsoang",
+        "regency": "Bandung",
+        "village": "Bandung"
+      },
+      "shipping_address": [
+        {
+          "id": 399983960013,
+          "label": "Rumah",
+          "name": "barnabas",
+          "phone_number": "081325128132",
+          "detail": "Perum PBB G51",
+          "is_primary": true
+        }
+      ],
+      "id": 1,
+      "gender": "Male"
+    }
+  ],
+  "carts": [],
+  "wishlist": [],
+  "transactions": [
+    {
+      "total_price": 275000,
+      "date": "Sep 27, 2024",
+      "time": "09:14 PM",
+      "ref_number": "520965826276",
+      "user_id": 1,
+      "id": 1
+    }
+  ]
+}
